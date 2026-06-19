@@ -24,7 +24,7 @@ Fields used:
 | `bathrooms` | float | Number of bathrooms |
 | `bedrooms` | int | Number of bedrooms |
 | `interest_level` | str → int | Interest level: low / medium / high |
-| `price` | int | **Target ** — monthly rent price ($) |
+| `price` | int | **Target** — monthly rent price ($) |
 
 No missing values. Outliers removed using the 1st and 99th percentiles.
 
